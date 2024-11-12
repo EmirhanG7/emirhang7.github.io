@@ -1,0 +1,12 @@
+{
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact Me",
+    "hello": "<h1>Hello ! <br> I'm <span>Emirhan</span></h1>",
+    "projectLink": "VIEW Project",
+    "codeLink": "VIEW Code",
+    "contactTitle": "Contact",
+    "contactDesc": "If you would like to learn more about my projects or would like to collaborate, please feel free to contact me. I look forward to talking to you about your own projects and cooperation opportunities.",
+    "aboutMe": "Hello, I am Emirhan Gozukucuk. I am working on freelance projects after a year of intensive training in frontend development using HTML, CSS, JavaScript and React. I understand the power and importance of teamwork with a dynamic team of 3 people more and more every day. <br><br> My attention to detail, desire to write clean code, and problem solving skills make me an ever-evolving professional in this field. In my frontend development journey, I am eager to deepen my knowledge and successfully overcome new challenges.",
+    "cv": "Download CV"
+}

@@ -1,0 +1,12 @@
+{
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "contact": "Bana Ulaşın",
+    "hello": "<h1>Merhaba ! <br> Ben <span>Emirhan</span></h1>",
+    "projectLink": "Projeyi Görüntüle",
+    "codeLink": "Kodu Görüntüle",
+    "contactTitle": "İletişim",
+    "contactDesc": "Eğer projelerim hakkında daha fazla bilgi almak veya işbirliği yapmak isterseniz, lütfen çekinmeden benimle iletişime geçin. Sizinle kendi projeleriniz ve işbirliği fırsatları hakkında konuşmayı dört gözle bekliyorum.",
+    "aboutMe": "Merhaba, ben Emirhan Gözüküçük. Frontend geliştiriciliği konusunda, HTML, CSS, JavaScript ve React kullanarak bir yıllık yoğun eğitimimin ardından freelance projeler üzerinde çalışmaktayım. Dinamik ve 3 kişilik bir ekip ile birlikte ekip çalışmasının gücünü ve önemini her gün daha fazla anlıyorum. <br><br> Detaylara olan dikkatim, temiz kod yazma arzum ve problem çözme yeteneğim, beni bu alanda sürekli gelişen bir profesyonel yapmaktadır. Frontend geliştirme yolculuğumda, bilgimi derinleştirmeye ve yeni zorlukları başarıyla aşmaya hevesliyim.",
+    "cv": "CV İndir"
+}

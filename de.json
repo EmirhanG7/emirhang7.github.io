@@ -1,0 +1,13 @@
+{
+    "skills": "Fertigkeiten",
+    "projects": "Projekte",
+    "contact": "Kontaktieren Sie mich",
+    "hello": "<h1>Hallo ! <br> Ich bin <span>Emirhan</span></h1>",
+    "projectLink": "Projekt anzeigen",
+    "codeLink": "Code anzeigen",
+    "contactTitle": "Kontakt",
+    "contactDesc": "Wenn Sie mehr über meine Projekte erfahren oder mit mir zusammenarbeiten möchten, zögern Sie bitte nicht, mich zu kontaktieren. Ich freue mich darauf, mit Ihnen über Ihre eigenen Projekte und Kooperationsmöglichkeiten zu sprechen.",
+    "aboutMe": "Hallo, ich bin Emirhan Gözüküçük. Nach einem Jahr intensiver Ausbildung in der Frontend-Entwicklung mit HTML, CSS, JavaScript und React arbeite ich als Freiberufler in einem dynamischen Team von 3 Personen und verstehe die Kraft und Bedeutung von Teamarbeit jeden Tag mehr. <br><br> Meine Liebe zum Detail, mein Wunsch, sauberen Code zu schreiben und meine Fähigkeit, Probleme zu lösen, machen mich zu einem sich ständig weiterentwickelnden Profi in diesem Bereich. Auf meiner Reise in der Frontend-Entwicklung bin ich bestrebt, mein Wissen zu vertiefen und neue Herausforderungen erfolgreich zu meistern.",
+    "cv": "Lebenslauf"
+
+}
